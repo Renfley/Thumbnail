@@ -1,4 +1,6 @@
 Thumbnail
 =========
 
-Added Index.php 
+PHP Thumbnail 
+
+Added Index.php
